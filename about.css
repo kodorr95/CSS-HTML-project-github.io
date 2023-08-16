@@ -1,0 +1,28 @@
+#wrapper {
+    background-color: #b6cb9e;
+}
+
+#aboutHeader {
+    text-align: center;
+    background-color: #d1f0b1;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+
+}
+
+th, td {
+    border: 2px #8C8A93;
+    border-style: solid;
+    width: 50%;
+    text-align: center;
+    
+}
+
+img {
+    max-width: 20%;
+    max-height: 20%;
+    margin-left: 40%;
+}
